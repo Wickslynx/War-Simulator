@@ -1,1 +1,0 @@
-war("Sweden", "Finland")
